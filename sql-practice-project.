@@ -1,0 +1,12 @@
+SQL Practice Project
+
+This repository contains SQL exercises covering:
+
+- Creating database tables
+- Inserting records
+- Updating records
+- Aggregate functions (SUM, AVG, MAX)
+- GROUP BY
+- ORDER BY
+- LIMIT
+- Database queries using payments, customers and orderdetails tables.
